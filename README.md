@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Joel 👋
 
-<!--
-**joel-21122005/joel-21122005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc Data Science Student  
+💡 Interested in Machine Learning & NLP  
+🚀 Building real-world data science projects  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- Machine Learning
+- Data Analysis
+- NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Student Performance Prediction (Upcoming)
+- Fake News Detection (Upcoming)
+- Singara Perundu (Final Year Project)
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/joel-nicholes
