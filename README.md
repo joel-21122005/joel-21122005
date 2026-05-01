@@ -11,8 +11,8 @@
 - NLP
 
 ## 📌 Projects
-- Student Performance Prediction (Upcoming)
-- Fake News Detection (Upcoming)
+- Student Performance Prediction 
+- Fake News Detection 
 - Singara Perundu (Final Year Project)
 
 ## 📫 Connect with me
